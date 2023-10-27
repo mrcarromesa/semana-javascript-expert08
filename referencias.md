@@ -32,3 +32,7 @@
 
 - https://developer.mozilla.org/en-US/docs/Web/API/VideoDecoder/configure
 - https://developer.mozilla.org/en-US/docs/Web/API/EncodedVideoChunk
+
+
+- https://github.com/w3c/webcodecs
+- https://w3c.github.io/webcodecs/samples/
